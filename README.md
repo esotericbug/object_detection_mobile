@@ -1,12 +1,11 @@
 <br/>
 <p align="center">
   <h3 align="center">Object Detection (Mobile)</h3>
-
 </p>
 
 ## About The Project
 
-This application is a simple demonstration of how tensor flow can be used with flutter and a camera stream to detec objects.
+This application is a simple demonstration of how tensor flow can be used with flutter and a camera stream to detect objects.
 
 ## Built With
 
@@ -21,8 +20,6 @@ Clone the repository and run the command to fetch packages in flutter and start 
 * flutter
 
 ## Contributing
-
-
 
 ### Creating A Pull Request
 
